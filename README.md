@@ -1,2 +1,2 @@
-# vinvapp..github.io
+# vinvapp.github.io
 Personal website
