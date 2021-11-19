@@ -29,3 +29,11 @@ wget: start
 httrack: start
 	@ cd .. ; \
 	httrack --ext-depth=1 http://localhost:8000 ; 
+
+.PHONY: submit
+submit:
+	@cd /Users/vincentvonappen/software/vinvapp.github.io ; \
+	git add . ; \
+	git commit -m "Auto Update" ; \
+	git push ; \ 
+	cd -
