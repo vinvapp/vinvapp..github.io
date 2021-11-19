@@ -21,6 +21,11 @@ rmv:
 exe:
 	docker exec -i -t wordpress_docker_wordpress_1 /bin/bash
 
-.PHONY: get
-get:
+.PHONY: wget
+wget: start
 	wget -p -k http://localhost:8000
+
+.PHONY: httrack
+httrack: start
+	@ cd .. ; \
+	httrack --ext-depth=1 http://localhost:8000 ; 
