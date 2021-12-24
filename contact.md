@@ -9,17 +9,12 @@ This is a test page. Please contact me on the following plattforms:
 
 <div style="font-style: italic; text-align: center;" markdown="1">
 
-[<img align="left" alt="vinvapp.github.io" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]     
-
-[<img align="left" alt="vinvapp | YouTube" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" target="_blank" />][youtube]     
-
-[<img align="left" alt="Falk Vincent von Appen | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]     
-
-[<img align="left" alt="Vincent von Appen | Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]     
-
-[<img align="left" alt="Vinva | Spotify" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]     
-
-[<img align="left" alt="vincent.vonapp | Facebook" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]     
+[<img align="left" alt="vinvapp.github.io" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]               
+[<img align="left" alt="vinvapp | YouTube" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" target="_blank" />][youtube]          
+[<img align="left" alt="Falk Vincent von Appen | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]        
+[<img align="left" alt="Vincent von Appen | Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]          
+[<img align="left" alt="Vinva | Spotify" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]                            
+[<img align="left" alt="vincent.vonapp | Facebook" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]                
 
 </div>
 
