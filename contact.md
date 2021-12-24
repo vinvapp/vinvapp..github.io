@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: Contact
 permalink: /contact/
 ---
 
 This is a test page. Please contact me on the following plattforms: 
 
 
-[<img align="left" alt="vinvapp.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vinvapp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" target="_blank" />][youtube]
-[<img align="left" alt="Falk Vincent von Appen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vincent von Appen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Vinva | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
-[<img align="left" alt="vincent.vonapp | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<a align="left" alt="vinvapp.github.io" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank"> </a>][website]     
+[<a align="left" alt="vinvapp | YouTube" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" target="_blank" target="_blank"> </a>][youtube]    
+[<a align="left" alt="Falk Vincent von Appen | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"> </a>][linkedin]    
+[<a align="left" alt="Vincent von Appen | Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"> </a>][instagram]    
+[<a align="left" alt="Vinva | Spotify" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" target="_blank"> </a>][spotify]    
+[<a align="left" alt="vincent.vonapp | Facebook" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" target="_blank"> </a>][facebook]
 
 
 
