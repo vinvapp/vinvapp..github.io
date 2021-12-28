@@ -19,20 +19,25 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Vincents personal website using Jekyll
-email: better-not-put-my-mail-address-here@example.com
+author:
+  name: GitHub User
+  email: your-email@domain.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+show_excerpts: false # set to true to show excerpts on the homepage
+
+
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vinvapp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  vinvapp
 
 
 ################################################################
 #                      Resume 
 ################################################################
+
+# https://jekyllthemes.io/theme/resume-template
 
 # Resume settings
 resume_avatar:                  "true"
@@ -71,14 +76,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_github_url:            "https://github.com/vinvapp"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_facebook_url:          "https://www.facebook.com/vincent.vonapp"
+  resume_linkedin_url:          "https://www.linkedin.com/in/falk-vincent-von-appen/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url:           "https://vinvapp.github.io/"
+  #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
@@ -86,11 +91,60 @@ resume_theme:                   default
 
 
 ################################################################
+#                      Minima 
+################################################################
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    #twitter: jekyllrb
+    github:  vinvapp
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    linkedin: falk-vincent-von-appen
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UCZqW9Q3okXu4g8jmCrO52mg
+    # youtube_channel_name: vinvapp
+    # telegram: VinvA
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+################################################################
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

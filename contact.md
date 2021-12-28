@@ -20,6 +20,7 @@ This is a test page. Please contact me on the following plattforms:
 
 [<img align="left" alt="vincent.vonapp | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] [facebook][facebook] 
 
+[<img align="left" alt="vincent.vonapp | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github] [github][github] 
 
 
 <!-- Internal links -->
@@ -31,6 +32,7 @@ This is a test page. Please contact me on the following plattforms:
 [spotify]: https://open.spotify.com/user/qrbpgaw7yhw7hdet90c8i9q19?si=32d4f6aea77c4b90
 [facebook]: https://www.facebook.com/vincent.vonapp
 [github]: https://github.com/vinvapp
+
 <!-- Sources -->
 [inspiration]: https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/
 [workflow]: https://github.com/gautamkrishnar/blog-post-workflow
