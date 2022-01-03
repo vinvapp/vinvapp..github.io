@@ -16,6 +16,19 @@ https://vinvapp.github.io/
 - _sass: 
 - _site: 
 
+## Templates Used
+- Landing page:
+  - https://github.com/jekyll/minima
+- CV:
+  - https://jekyllthemes.io/theme/resume-template
+- Pictures:
+  - http://jekyllthemes.org/themes/adam-blog/
+
+
+## Other Interesting Templates 
+
+iOS App landing page
+https://jekyllthemes.io/theme/automatic-app-landing-page
 
 
 ## Errors encountered:
