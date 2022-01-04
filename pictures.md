@@ -1,4 +1,5 @@
---- 
-layout: pictures_index
-title: Pictures
----
+#--- 
+#layout: picture-blog
+#title: Pictures
+#permalink: /pictures/
+#---

@@ -6,6 +6,8 @@ https://vinvapp.github.io/
 
 ## Folder structure 
 
+https://jekyllrb.com/docs/step-by-step/07-assets/
+
 - _assets: 
   - data_resume: yml files that get compiled into the resume
   - icons_resume: svg files that are used as contact info
@@ -38,3 +40,8 @@ Jekyll would not host the website:
 ``` bash
 bundle add webrick
 ```
+
+
+# Important 
+
+https://stackoverflow.com/a/58682549
