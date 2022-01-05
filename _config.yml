@@ -89,56 +89,6 @@ resume_print_social_links:      true
 # Design settings
 resume_theme:                   default
 
-
-################################################################
-#                      Minima 
-################################################################
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-
-  # generate social links in footer
-  social_links:
-    #twitter: jekyllrb
-    github:  vinvapp
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    linkedin: falk-vincent-von-appen
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UCZqW9Q3okXu4g8jmCrO52mg
-    # youtube_channel_name: vinvapp
-    # telegram: VinvA
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-################################################################
-
 # Build settings
 theme: minima
 
