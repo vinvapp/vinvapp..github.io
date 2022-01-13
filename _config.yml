@@ -20,9 +20,9 @@
 
 title: Vincents personal website using Jekyll
 author:
-  name: GitHub User
+  name: Vincent von Appen
   email: your-email@domain.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until next key value
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -34,117 +34,60 @@ url: "https://vinvapp.github.io" # the base hostname & protocol for your site, e
 
 
 ################################################################
-#                      Resume 
+#                      Picture blog 
 ################################################################
 
-# https://jekyllthemes.io/theme/resume-template
+#title: My personal blog - Adam Neilson
+#email: your-email@domain.com
+#description: > # this means to ignore newlines until "baseurl:"
+#  Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description.
+#permalink: ':title/'
+#baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Vincent von Appen"
-resume_title:                   "Student at TUM"
+# Author settings
+author: Vincent # add your name
+author-pic: vincent-face-1.jpg
+author-pic-professional: vincent-face-2.jpg
+about-author: My name is Vincent von Appen. I’m a student at TUM and travel enthusiasts who wants to share some of his stories.
 
-# used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+# Contact links
+email: # Add your Email address
+website: vinvapp.github.io/ # Add your website, do not add http://
+linkedin: falk-vincent-von-appen # Add your Linkedin handle
+github: vinvapp # Add your Github handle
+facebook: vincent.vonapp # Add your Facebook handle
+instagram: # Add your Instagram handle
+#phone: # Add your Phone number
+#twitter: '@artemsheludko_' # Add your Twitter handle
+#pinterest: # Add your Pinterest handle
 
-# the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+# Newsletter
+#mailchimp: # Add your MailChimp form identifier.
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+# Disqus
+discus_identifier: mr-brown # Add your discus identifier
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+# Tracker
+#analytics: # Google Analytics
 
-# use "yes" to display the email contact button,
-# "no" to display an "I'm not looking for work" message,
-# or remove the resume_looking_for_work option entirely
-# to leave blank
-resume_looking_for_work:        "yes"
-
-# Decide which sections to use
-# comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
-
-# Resume social links
-# uncomment the options you wish to display, and add your own URL
-resume_social_links:
-  resume_github_url:            "https://github.com/vinvapp"
-  #resume_twitter_url:           "http://twitter.com/jglovier"
-  #resume_dribbble_url:          "https://dribbble.com/jag"
-  resume_facebook_url:          "https://www.facebook.com/vincent.vonapp"
-  resume_linkedin_url:          "https://www.linkedin.com/in/falk-vincent-von-appen/"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://vinvapp.github.io/"
-  #resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      true
-
-# Design settings
-resume_theme:                   default
-
-
-################################################################
-#                      Minima 
-################################################################
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-
-  # generate social links in footer
-  social_links:
-    #twitter: jekyllrb
-    github:  vinvapp
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    linkedin: falk-vincent-von-appen
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UCZqW9Q3okXu4g8jmCrO52mg
-    # youtube_channel_name: vinvapp
-    # telegram: VinvA
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-################################################################
+# Paginate
+paginate: 6
+paginate_path: "/blog/page:num/"
 
 # Build settings
-theme: minima
+markdown: kramdown
 
 plugins:
+  - jekyll-paginate
   - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -153,14 +96,18 @@ plugins:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
+
+include: 
+  - _pages
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - package.json
+  - yarn.lock
+  - _sass/
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
