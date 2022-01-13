@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-This is a test page. Please contact me on the following plattforms: 
+This is a test page. Please contact me on the following platforms: 
 
 
 [<img align="left" alt="vinvapp.github.io" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [website][website]

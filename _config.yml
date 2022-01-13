@@ -22,7 +22,7 @@ title: Vincents personal website using Jekyll
 author:
   name: Vincent von Appen
   email: your-email@domain.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until next key value
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -31,27 +31,6 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vinvapp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 
 ################################################################
@@ -70,19 +49,20 @@ url: "https://vinvapp.github.io" # the base hostname & protocol for your site, e
 
 # Author settings
 author: Vincent # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author-pic: vincent-face-1.jpg
+author-pic-professional: vincent-face-2.jpg
+about-author: My name is Vincent von Appen. I’m a student at TUM and travel enthusiasts who wants to share some of his stories.
 
 # Contact links
 email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: # Add your Facebook handle
+website: vinvapp.github.io/ # Add your website, do not add http://
+linkedin: falk-vincent-von-appen # Add your Linkedin handle
+github: vinvapp # Add your Github handle
+facebook: vincent.vonapp # Add your Facebook handle
 instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+#phone: # Add your Phone number
+#twitter: '@artemsheludko_' # Add your Twitter handle
+#pinterest: # Add your Pinterest handle
 
 # Newsletter
 #mailchimp: # Add your MailChimp form identifier.
@@ -108,3 +88,27 @@ plugins:
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+
+include: 
+  - _pages
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - package.json
+  - yarn.lock
+  - _sass/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
