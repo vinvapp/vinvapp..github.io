@@ -1,8 +1,8 @@
----
-layout: home-page
-title: Contact
-permalink: /contact/
----
+#---
+#layout: home-page
+#title: Contact
+#permalink: /contact/
+#---
 
 This is a test page. Please contact me on the following platforms: 
 
