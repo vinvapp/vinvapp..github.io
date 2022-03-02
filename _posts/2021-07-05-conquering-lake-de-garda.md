@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conquering lake de Garda"
-date:   2021-12-24 16:09:33 +0100
+date:   2021-07-05 12:00:00 +0100
 categories: jekyll update
 description: Few impressions from my trip to italy. # Add post description 
 tags: [Blog, Mountains, Italy]
