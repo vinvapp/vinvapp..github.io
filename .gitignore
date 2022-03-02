@@ -5,3 +5,5 @@ _site
 vendor
 .TODO
 assets/pdf/*
+assets/img/20*
+!assets/img/2021-italy
