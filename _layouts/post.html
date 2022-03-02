@@ -28,7 +28,8 @@ layout: default
             <!-- <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>-->
           </div><!-- End Share -->
         </div>
-        {% include author-box.html {% if include.img %}{{img=page.author_img}}{% endif %}%}
+        <!-- pass through page author variable %}-->
+        {% include author-box.html img=page.author_img %}
         {% include recent-post.html %}
         <!-- include newsletter.html %}-->
       </div>
