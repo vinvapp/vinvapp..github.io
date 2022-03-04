@@ -28,3 +28,18 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+
+Jekyll Links
+
+adam blog 
+
+
+Include image gallery and clicking on images
+
+Num specifies the number of images per row 
+`{% include image-gallery.html folder="assets/img/2019-canada-SF/" num=3 %}`
+
+
+`[![Test]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg)`
+

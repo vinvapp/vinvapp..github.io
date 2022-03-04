@@ -12,12 +12,10 @@ author: Vincent von Appen # Add name author (optional)
 
 Placeholder
 
-{% include image-gallery.html folder="assets/img/2019-canada-SF/" %}
+{% include image-gallery.html folder="assets/img/2019-canada-SF/" num=3 %}
 
 
-
-![Test]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg)
-
+[![Test]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg)
 
 blah 
 
