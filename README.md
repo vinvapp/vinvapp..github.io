@@ -45,3 +45,7 @@ bundle add webrick
 # Important 
 
 https://stackoverflow.com/a/58682549
+
+## Centering div, or images 
+
+https://stackoverflow.com/questions/23819197/jekyll-blog-post-centering-images
