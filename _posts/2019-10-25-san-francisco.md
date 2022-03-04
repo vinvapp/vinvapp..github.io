@@ -14,6 +14,13 @@ Placeholder
 
 {% include image-gallery.html folder="assets/img/2019-canada-SF/" %}
 
+
+
+![Test]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg)
+
+
+blah 
+
 {:refdef: style="text-align: center;"}
 ![Autogrößen in Canada]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}
 ![Autogrößen in Canada]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03901.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}
