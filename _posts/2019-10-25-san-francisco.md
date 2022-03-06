@@ -3,7 +3,7 @@ layout: post
 title:  "San Francisco"
 date:   2019-10-25 12:00:00 -0600
 categories: Semester-abroad
-description: Few impressions from my trip to italy. # Add post description 
+description: Few impressions from my trip to San Francisco. # Add post description 
 tags: [Blog, Semester-abroad, Deutsch]
 img: 2019-canada-SF/DSC03995.jpg
 author_img: 2019-canada-SF/DSC03940-2.jpg # Add other picture to author box
