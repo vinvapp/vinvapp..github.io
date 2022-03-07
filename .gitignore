@@ -4,5 +4,5 @@ _site
 .jekyll-metadata
 vendor
 .TODO
-assets/pdf/*
+assets/pdf/*.do
 assets/img/Original_img_data
