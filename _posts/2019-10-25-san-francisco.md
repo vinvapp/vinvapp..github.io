@@ -10,22 +10,21 @@ author_img: 2019-canada-SF/DSC03940-2.jpg # Add other picture to author box
 author: Vincent von Appen # Add name author (optional)
 ---
 
-Placeholder
+Placeholder. Text coming soon! Here are some picture in the mean time:
 
-{% include image-gallery.html folder="assets/img/2019-canada-SF/" num=3 %}
+[![Bridge](/assets/img/2019-canada-SF/DSC03893.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}](/assets/img/2019-canada-SF/DSC03893.jpg)
 
+[![Houses](/assets/img/2019-canada-SF/DSC03901.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}](/assets/img/2019-canada-SF/DSC03901.jpg)
 
-[![Test]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg)
+[![Downtown](/assets/img/2019-canada-SF/DSC03909.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}](/assets/img/2019-canada-SF/DSC03909.jpg)
 
-blah 
+[![Me](/assets/img/2019-canada-SF/DSC03940.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}](/assets/img/2019-canada-SF/DSC03940.jpg)
 
-{:refdef: style="text-align: center;"}
-![Autogrößen in Canada]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}
-![Autogrößen in Canada]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03901.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}
-![Autogrößen in Canada]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03909.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}
-![Autogrößen in Canada]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03940.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}
-![Autogrößen in Canada]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03969.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}
-![Autogrößen in Canada]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03995.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}
-![Autogrößen in Canada]({{site.baseurl}}/assets/img/2019-canada-SF/IMG_8692.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}
-![Autogrößen in Canada]({{site.baseurl}}/assets/img/2019-canada-SF/IMG_8522.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}
-{: refdef}
+[![Green House](/assets/img/2019-canada-SF/DSC03969.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}](/assets/img/2019-canada-SF/DSC03969.jpg)
+
+[![Golden Gate Bridge](/assets/img/2019-canada-SF/DSC03995.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}](/assets/img/2019-canada-SF/DSC03995.jpg)
+
+[![Conference](/assets/img/2019-canada-SF/IMG_8522.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}](/assets/img/2019-canada-SF/IMG_8522.jpg)
+
+[![Wildfires](/assets/img/2019-canada-SF/IMG_8692.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}](/assets/img/2019-canada-SF/IMG_8692.jpg)
+
