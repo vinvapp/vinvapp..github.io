@@ -3,7 +3,8 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2021-12-24 16:09:33 +0100
 categories: jekyll update
-img: yosh-ginsu.jpg
+img: 2022-blog/jekyll_logo_grey.jpg
+tags: [Tutorial, Germany]
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -38,8 +39,12 @@ adam blog
 Include image gallery and clicking on images
 
 Num specifies the number of images per row 
-`{% include image-gallery.html folder="assets/img/2019-canada-SF/" num=3 %}`
 
+{% highlight ruby %}
+{ % include image-gallery.html folder="assets/img/2019-canada-SF/" num=3 % }
+{% endhighlight %}
 
-`[![Test]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg)`
+```
+[![Test]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}]({{site.baseurl}}/assets/img/2019-canada-SF/DSC03893.jpg)
+```
 

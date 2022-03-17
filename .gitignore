@@ -6,3 +6,6 @@ vendor
 .TODO
 assets/pdf/*.do
 assets/img/Original_img_data
+
+#Ignore DRAFT_...posts
+_posts/*DRAFT*.md

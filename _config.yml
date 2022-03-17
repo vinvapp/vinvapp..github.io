@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vincents personal website using Jekyll
+title: My personal website - Vincent von Appen
 author:
   name: Vincent von Appen
   email: your-email@domain.com
@@ -50,8 +50,8 @@ url: "https://vinvapp.github.io" # the base hostname & protocol for your site, e
 # Author settings
 author: Vincent # add your name
 author-pic: vincent-face-1.jpg
-author-pic-professional: vincent-face-2.JPG
-about-author: My name is Vincent von Appen. I’m a student at TUM and travel enthusiasts who wants to share some of his stories.
+author-pic-professional: vincent-face-2.jpg
+about-author: My name is Vincent von Appen. I’m a student at TUM (currently taking a vacation semester) and travel enthusiasts who wants to share some of his stories.
 
 # Contact links
 email: # Add your Email address
@@ -87,7 +87,15 @@ plugins:
   - jekyll-redirect-from
 
 include: [_pages]
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
+exclude: [
+  "node_modules", 
+  "gulpfile.js", 
+  "package.json", 
+  "yarn.lock", 
+  "package-lock.json", 
+  "assets/css/sass/",
+  "tags_list", 
+  "makefile"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
