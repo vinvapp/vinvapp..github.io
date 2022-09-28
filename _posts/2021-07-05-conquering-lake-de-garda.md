@@ -4,7 +4,7 @@ title:  "Conquering lake de Garda"
 date:   2021-07-05 12:00:00 +0100
 categories: Blog
 description: Few impressions from my trip to italy. # Add post description 
-tags: [Mountains, Italy, Vacation]
+tags: [Vacation, Italy, Mountains, Hiking ]
 img: 2021-italy/cover.JPG
 author_img: 2021-italy/cover_square.JPG # Add other picture to author box
 author: Vincent von Appen # Add name author (optional)
