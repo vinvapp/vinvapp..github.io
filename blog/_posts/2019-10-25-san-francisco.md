@@ -2,7 +2,7 @@
 layout: post
 title:  "San Francisco"
 date:   2019-10-25 12:00:00 -0600
-categories: Semester-abroad
+categories: Blog
 description: Few impressions from my trip to San Francisco. # Add post description 
 tags: [Vacation, USA, Semester-abroad]
 img: 2019-canada-SF/DSC03995.jpg

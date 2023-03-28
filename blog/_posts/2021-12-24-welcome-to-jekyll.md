@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2021-12-24 16:09:33 +0100
-categories: jekyll update
+categories: Blog
 img: 2022-blog/jekyll_logo_grey.jpg
 tags: [Tutorial, Germany]
 ---
