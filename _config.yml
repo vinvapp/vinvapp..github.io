@@ -51,9 +51,9 @@ url: "https://vinvapp.github.io" # the base hostname & protocol for your site, e
 author: Vincent # add your name
 author-pic: vincent-face-1.jpg
 about-author: >- # this means to ignore newlines until next key value
-My name is Vincent von Appen. I’m a student at TUM (currently 
-taking a vacation semester) and travel enthusiasts who wants to 
-share some of his stories.
+  My name is Vincent von Appen. I’m a student at TUM (currently 
+  taking a vacation semester) and travel enthusiasts who wants to 
+  share some of his stories.
 author-pic-professional: vincent-face-2.jpg
 
 # Contact links
