@@ -80,7 +80,7 @@ discus_identifier: mr-brown # Add your discus identifier
 #paginate: 6
 #paginate_path: "/blog/page:num/"
 
-#paginate_multiple:
+paginate_multiple:
   - paginate: 6
     paginate_path: '/blog/page:num/'
     sub_dir: '/blog/'
