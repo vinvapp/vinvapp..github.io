@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "San Francisco"
+title:  "Test recipe"
 date:   2023-03-28 12:00:00 -0600
 categories: recipe
 description: Test Recipe. # Add post description 

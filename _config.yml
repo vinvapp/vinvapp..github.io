@@ -77,14 +77,24 @@ discus_identifier: mr-brown # Add your discus identifier
 #analytics: # Google Analytics
 
 # Paginate
-paginate: 6
-paginate_path: "/blog/page:num/"
+#paginate: 6
+#paginate_path: "/blog/page:num/"
+
+#paginate_multiple:
+  - paginate: 6
+    paginate_path: '/blog/page:num/'
+    sub_dir: '/blog/'
+  - paginate: 6
+    paginate_path: '/recipes/page:num/'
+    sub_dir: '/recipes/'
 
 # Build settings
 markdown: kramdown
 
+
 plugins:
   - jekyll-paginate
+  - jekyll-paginate-multiple
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
@@ -110,7 +120,8 @@ exclude: [
 
 include: 
   - _pages
-  - blog/_posts
+  - _posts/blog/
+  - _posts/recipes/
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -121,6 +132,8 @@ exclude:
   - yarn.lock
   - _sass/
   - _archive/
+  - makefile
+  - tags_list
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/

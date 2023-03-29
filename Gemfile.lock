@@ -32,6 +32,9 @@ GEM
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
+    jekyll-paginate-multiple (0.1.0)
+      jekyll (>= 2.5)
+      jekyll-paginate (~> 1.1)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (2.1.0)
@@ -76,10 +79,11 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
-  eventmachine
+  eventmachine (~> 1.2)
   jekyll (~> 4.2.1)
-  jekyll-feed (~> 0.12)
+  jekyll-feed
   jekyll-paginate
+  jekyll-paginate-multiple
   jekyll-redirect-from
   jekyll-sitemap
   minima (~> 2.5)
