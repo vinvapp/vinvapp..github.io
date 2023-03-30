@@ -8,4 +8,6 @@ assets/pdf/*.do*
 assets/img/Original_img_data
 
 #Ignore DRAFT_...posts
-blog/_posts/*DRAFT*.md
+_posts/blog/*DRAFT*.md
+_posts/recipes/*DRAFT*.md
+
