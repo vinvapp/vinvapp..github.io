@@ -76,6 +76,9 @@ discus_identifier: mr-brown # Add your discus identifier
 # Tracker
 #analytics: # Google Analytics
 
+#Settings for the blog
+future: true
+
 # Paginate
 paginate: 6
 paginate_path: "/blog/page:num/"

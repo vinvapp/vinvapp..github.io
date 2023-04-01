@@ -11,3 +11,6 @@ submit:
 
 live:
 	bundle exec jekyll serve --livereload
+
+log:
+	git log --all --decorate --oneline --graph
