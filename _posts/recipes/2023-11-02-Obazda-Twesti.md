@@ -14,14 +14,14 @@ author: Vincent von Appen # Add name author (optional)
 
 ## Zutaten
 
-1 Packung Frischkäse (200 g)
-1 Ecke Brie oder Camembert (200 g)
-1 Zwiebel
-1 EL Öl
-1 EL Butter
-Paprikapulver
-Pfeffer
-Salz
+- 1 Packung Frischkäse (200 g)
+- 1 Ecke Brie oder Camembert (200 g)
+- 1 Zwiebel
+- 1 EL Öl
+- 1 EL Butter
+- Paprikapulver
+- Pfeffer
+- Salz
 
 
 ## Zubereitung
@@ -56,7 +56,9 @@ Obatzdn ist ein einfaches, aber leckeres Gericht. Das Rezept meiner Mama ist etw
 Paprikapulver
 Pfeffer
 Salz
-Zubereitung
+
+
+## Zubereitung
 
 Zwiebel fein würfeln.
 Weichkäse in Würfel schneiden.

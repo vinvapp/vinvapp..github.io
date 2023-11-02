@@ -14,12 +14,12 @@ author: Vincent von Appen # Add name author (optional)
 
 ## Zutaten
 
-250 g Mehl
-2,5 EL Zucker
-2 TL Backpulver
-1 Prise Salz
-2 Eier
-200 ml Milch
+- 250 g Mehl
+- 2,5 EL Zucker
+- 2 TL Backpulver
+- 1 Prise Salz
+- 2 Eier
+- 200 ml Milch
 
 
 ## Zubereitung

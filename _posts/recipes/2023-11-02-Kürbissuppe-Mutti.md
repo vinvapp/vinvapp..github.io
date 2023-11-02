@@ -13,11 +13,11 @@ author: Vincent von Appen # Add name author (optional)
 
 ## Zutaten
 
-1 Kürbis 
-Kartoffeln
-Möhren
-Zwiebeln
-Ingwer
+- 1 Kürbis 
+- Kartoffeln
+- Möhren
+- Zwiebeln
+- Ingwer
 
 ## Zubereitung
 
