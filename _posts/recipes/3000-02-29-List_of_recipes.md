@@ -13,8 +13,10 @@ author: Vincent von Appen # Add name author (optional)
 
 - Thermomix 
     - Tomatensuppe
-    - Pasta mit Aj... (Tomaten ersatz)
+    - Pasta mit Ajar 
     - Alpenmangronen 
+    - Joghurt
+
 
 - Salate 
     - Gemischter Salat
@@ -74,6 +76,12 @@ author: Vincent von Appen # Add name author (optional)
   - Obazda
   - Pizzastangen/schnecken
   - Tartes
+  - Frocacciabrot
+
+- Fancy 
+  - Frocacciabrot mit Salat 
+
+
 
 - Ideen/Üben/Noch nicht ausprobiert
     - Baguette (Marco)
@@ -82,5 +90,8 @@ author: Vincent von Appen # Add name author (optional)
     - Brotsalat 
     - Pulled Tofu 
     - Mie-Bratnudeln 
+    - Zimtschnecken 
+    - Sushi (vegetarisch)
+    - 
 
 
