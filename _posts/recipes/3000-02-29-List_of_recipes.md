@@ -36,13 +36,23 @@ author: Vincent von Appen # Add name author (optional)
     - Erdnuss-Hühchen Soße 
     - Rote-Beete-Feta und Kerne
     - Pilze in Sahne Soße, würzen mit Petersilie und Pfeffer! 
-
+    - Carbonara
+    - Pesto
+    - Spinat, Feta, Tomate, Pinienkerne
+    - Tomatensoße
+    - Linsenbolognese
+    - Schupfnudeln
 
 - Burger 
     - Vegane Petties:
         - Kidneybohnen
         - Rote Linsen mit Zucchini (Biggi nach Rezept fragen? )
 
+- Aufläufe 
+  - Kartoffelgratin
+  - Alpenmakronen
+  - Lasange
+  - Weiße Gemüse Lasange
 
 - Andere Sachen, die immer geheen 
     - Flammkuchen 
@@ -51,10 +61,26 @@ author: Vincent von Appen # Add name author (optional)
     - Lasange
     - Ofengemüse (Braucht noch tuning)
 
-- Noch nicht getestet
+- Kartoffeln 
+    - Gnocchi
+        - Tomate Mozzarella
+        - Spinat Feta
+        - Pilze
+    - Kartoffelpuffer
+    - Bauernfrühstück/Bratkartoffeln
+    - Rosmarinkartoffeln
+
+- Mitbringen 
+  - Obazda
+  - Pizzastangen/schnecken
+  - Tartes
+
+- Ideen/Üben/Noch nicht ausprobiert
+    - Baguette (Marco)
+    - Spätzle? (Lukas, Nati, Marco fragen)
+    - Ramen nudeln/Ei  
     - Brotsalat 
     - Pulled Tofu 
+    - Mie-Bratnudeln 
 
-Rezepte von Marco 
-    - Baguette 
 

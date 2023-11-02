@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Obazda Twesti"
+title:  "Pancakes from Jannis"
 date:   2023-11-02 12:00:00 -0600
 categories: recipe
-description: Most bavarian recipe ever. # Add post description 
-tags: [MURICA, quick]
+description: Fancy Dancy Pancakes. # Add post description 
+tags: [MURICA, Canada, quick]
 #img: 2019-canada-SF/DSC03995.jpg
 #author_img: 2019-canada-SF/DSC03940-2.jpg # Add other picture to author box
 author: Vincent von Appen # Add name author (optional)
 ---
-
 
 # Rezept für Pancakes
 
