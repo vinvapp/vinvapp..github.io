@@ -5,7 +5,7 @@ date:   2023-11-02 12:00:00 -0600
 categories: recipe
 description: Most bavarian recipe ever. # Add post description 
 tags: [German, quick]
-img: /img/recipes/Obazda.jpg
+img: /recipes/Obazda.jpg
 #author_img: 2019-canada-SF/DSC03940-2.jpg # Add other picture to author box
 author: Vincent von Appen # Add name author (optional)
 ---
