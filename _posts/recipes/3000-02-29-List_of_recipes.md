@@ -35,7 +35,7 @@ author: Vincent von Appen # Add name author (optional)
     - Naan (Rezept?)
 
 - Nudeln 
-    - Erdnuss-Hühchen Soße 
+    - Erdnuss-"Hühchen" Soße 
     - Rote-Beete-Feta und Kerne
     - Pilze in Sahne Soße, würzen mit Petersilie und Pfeffer! 
     - Carbonara
@@ -43,6 +43,7 @@ author: Vincent von Appen # Add name author (optional)
     - Spinat, Feta, Tomate, Pinienkerne
     - Tomatensoße
     - Linsenbolognese
+    - Roucula, Eingelegete Tomaten, Pinienkerne, Parmesan
     - Schupfnudeln
 
 - Burger 
@@ -55,6 +56,7 @@ author: Vincent von Appen # Add name author (optional)
   - Alpenmakronen
   - Lasange
   - Weiße Gemüse Lasange
+  - Tortelini (Julius P. fragen)
 
 - Andere Sachen, die immer geheen 
     - Flammkuchen 

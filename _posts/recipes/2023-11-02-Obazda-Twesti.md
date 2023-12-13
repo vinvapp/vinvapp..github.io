@@ -4,8 +4,8 @@ title:  "Obazda Twesti"
 date:   2023-11-02 12:00:00 -0600
 categories: recipe
 description: Most bavarian recipe ever. # Add post description 
-tags: [Bayrisch, quick]
-#img: 2019-canada-SF/DSC03995.jpg
+tags: [German, quick]
+img: /img/recipes/Obazda.jpg
 #author_img: 2019-canada-SF/DSC03940-2.jpg # Add other picture to author box
 author: Vincent von Appen # Add name author (optional)
 ---
@@ -17,8 +17,10 @@ author: Vincent von Appen # Add name author (optional)
 - 1 Packung Frischkäse (200 g)
 - 1 Ecke Brie oder Camembert (200 g)
 - 1 Zwiebel
+- Knoblauch
 - 1 EL Öl
 - 1 EL Butter
+- kleinen Schuss Bier reingeben.
 - Paprikapulver
 - Pfeffer
 - Salz
@@ -68,21 +70,23 @@ Unterschiede zum ursprünglichen Rezept
 Butter statt Öl
 Keiner Bier
 Weniger Paprikapulver
+
 </details>
 
 <details>
   <summary>Original Nachricht von Twesties</summary>
 
-eine Packung Frischkäse 
-eine Ecke Brie oder Camenbert (ca 200 g)
-Zwiebeln
-ein kleiner Schuss Öl und ein bisschen Butter
-viel Paprikapulver
-Pfeffer Salz
+- eine Packung Frischkäse 
+- eine Ecke Brie oder Camenbert (ca 200 g)
+- Zwiebeln
+- ein kleiner Schuss Öl und ein bisschen Butter
+- viel Paprikapulver
+- Pfeffer Salz
 
-Erst die Zwiebeln klein würfeln und den Weichkäse in Würfelchen schneiden.
-Dann alles zusammen in eine Schüssel geben und mit dem Handrührgerät verrühren.
-Fertig :D
+1. Erst die Zwiebeln klein würfeln und den Weichkäse in Würfelchen schneiden.
+2. Dann alles zusammen in eine Schüssel geben und mit dem Handrührgerät verrühren.
+3. Fertig :D
+4. 
 Man kann auch a bissl Knoblauch oder z.b. n kleinen Schuss Bier reingeben.
 Beim Bier muss man halt aufpassen, dass es dann nicht zu flüssig wird. Oder man versucht es wieder etwas dicker zu machen in dem man etwas Butter zugibt.
 Butter und Öl sind im Prinzip auch optional aber mein Papa macht des immer mit rein und ich find des macht sich ganz gut.
@@ -93,7 +97,7 @@ Beim Paprikapulver ist halt wichtig, dass man wirklich ziemlich viel nimmt. Da m
 Am Schluss wenn er dann fertig ist den Obatzdn dann halt noch mit Paprikapulver verzieren. Fast so a bissl wie ma des bei Tiramisu und Kakaopulver macht.
 Man kann theoretisch auch noch Kümmel reingeben.
 
-as Klassische Rezept meiner Mama wäre im Prinzip fast gleich mit dem Unterschied, dass man nur Butter, Weichkäse, Zwiebeln und die Gewürze nimmt.
+Das Klassische Rezept meiner Mama wäre im Prinzip fast gleich mit dem Unterschied, dass man nur Butter, Weichkäse, Zwiebeln und die Gewürze nimmt.
 Der ist halt aber sehr viel mächtiger und immer scheiße zu streichen wenn er ausm Kühlschrank kommt
 
 </details>
