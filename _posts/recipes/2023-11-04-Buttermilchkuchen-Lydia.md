@@ -43,6 +43,4 @@ Für einen süßeren Kuchen etwas mehr Zucker verwenden.
 
 Dieses Rezept für Buttermilchkuchen ist einfach und schnell zuzubereiten und ergibt einen leckeren und saftigen Kuchen. Mit ein paar kleinen Tipps lässt sich der Kuchen noch weiter verfeinern.
 
-[![Kuchenrezept von Lydia](assets/img/recipes/2023-11-04-buttermilchkuchen-lydia.jpeg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}](assets/img/recipes/2023-11-04-buttermilchkuchen-lydia.jpeg)
-
-
+[![Kuchenrezept von Lydia](assets/img/recipes/2023-11-04-buttermilchkuchen-lydia.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:60%"}](assets/img/recipes/2023-11-04-buttermilchkuchen-lydia.jpg)

@@ -5,7 +5,7 @@ date:   2023-11-02 12:00:00 -0600
 categories: recipe
 description: Fancy Dancy Pancakes. # Add post description 
 tags: [MURICA, Canada, quick]
-img: /img/recipes/pancakes.jpeg
+img: /recipes/pancakes.jpeg
 #author_img: 2019-canada-SF/DSC03940-2.jpg # Add other picture to author box
 author: Vincent von Appen # Add name author (optional)
 ---
